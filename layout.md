@@ -7,7 +7,6 @@ sectionCompeting_int.tex
 sectionAuthors_contr.tex
 sectionAcknowledgeme.tex
 sectionFigures.tex
-figures/Additional_fig_X_B/Additional_fig_X_B.png
 figures/Additional_fig_X_C/Additional_fig_X_C.png
 figures/Additional_fig_X_D/Additional_fig_X_D.png
 figures/Additional_fig_X_E/Additional_fig_X_E.png
