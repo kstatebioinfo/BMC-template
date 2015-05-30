@@ -10,6 +10,7 @@ sectionFigures.tex
 figures/Additional_fig_X_1/Additional_fig_X_1.png
 figures/Additional_fig_X_2/Additional_fig_X_2.png
 figures/Additional_fig_X_3/Additional_fig_X_3.png
+figures/Additional_fig_X_4/Additional_fig_X_4.png
 sectionTables_begint.tex
 sectionAdditional_Fi.tex
 subsectionAdditional.tex
