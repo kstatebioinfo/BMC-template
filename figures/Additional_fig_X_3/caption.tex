@@ -1,6 +1,11 @@
 Diagonal panels indicate the assembly metric used as the x-value in the respective column and the y-value in the respective row. Lower panels show XY scatter plots of each metric against all other metrics with a best fit line (red). Upper panels show the correlation coefficient (with font scaled based on the absolute value of the correlation coefficient). Significance of correlation coefficient is indicated in red (where "" means $p< 1$, "." means $p< 0.1$, "*" means $p< 0.05$, "**" means $p< 0.01$ and "***" means $p< 0.001$).
+
 Length of the sequence assembly FASTA file strongly negatively correlates with single molecule map coverage (-0.74, "***"). However there was no significant correlation between genome sequence length and assembled genome map N50. There was only a week positive correlation between genome map N50 and molecule map coverage (0.36, "."). 
+
 N50 of the sequence assembly positively correlates with the percent of the total length of \textit{in silico} maps that align to the genome maps (0.51, "**"). The longer genomes tended to have higher sequence N50 values (0.52, "**") which may explain the positive correlations between FASTA length and percent aligned (0.39, "*").
+
 Interestingly, there was no significant correlation indicated between genome map N50 and sequence assembly N50 (0.15, ""). One might expect that a genome with sequence that assembles easily may have qualities that would also favor molecule map assembly (e.g. low repeat content, low ploidy, inbreed lines, etc.). However molecule assembly is also influenced by unique factors like frequency of fragile sites (two labels occurring on opposite strands in close proximity), labeling efficiency and ability to extract high molecular weight DNA all of which vary for different organisms.
+
 Labels per 100 kb of molecule maps had no significant correlation with any other single genomic metric.
+
 Because many of the genomic metrics had very broad ranges with variance that increased often for higher values the genomic metrics were log transformed to compress the upper tails and stretch the lower tails.
