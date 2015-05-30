@@ -8,7 +8,6 @@ sectionAuthors_contr.tex
 sectionAcknowledgeme.tex
 sectionFigures.tex
 figures/Additional_fig_X_C/Additional_fig_X_C.png
-figures/Additional_fig_X_E/Additional_fig_X_E.png
 sectionTables_begint.tex
 sectionAdditional_Fi.tex
 subsectionAdditional.tex
