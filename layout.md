@@ -2,6 +2,7 @@ abstract.tex
 sectionAuthors_contr.tex
 sectionAcknowledgeme.tex
 sectionFigures.tex
+figures/Additional_fig_X_6/Additional_fig_X_6.png
 figures/Additional_fig_X_1/Additional_fig_X_1.png
 figures/Additional_fig_X_2/Additional_fig_X_2.png
 figures/Additional_fig_X_3/Additional_fig_X_3.png
