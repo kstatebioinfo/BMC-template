@@ -3,7 +3,6 @@ sectionContent_Text_.tex
 sectionSection_title.tex
 If_we_assume_that.tex
 Thus_we_observe_that.tex
-sectionCompeting_int.tex
 sectionAuthors_contr.tex
 sectionAcknowledgeme.tex
 sectionFigures.tex
