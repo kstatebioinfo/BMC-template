@@ -1,5 +1,4 @@
 abstract.tex
-sectionSection_title.tex
 If_we_assume_that.tex
 Thus_we_observe_that.tex
 sectionAuthors_contr.tex
